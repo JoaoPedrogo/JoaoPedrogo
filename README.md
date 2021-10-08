@@ -1,9 +1,9 @@
 ### Oiii! Eu sou João Pedro
 
 <div align="left">
-  <a href="https://github.com/Joaotipo">
-  <img height="145em" src="https://github-readme-stats.vercel.app/api?username=Joaotipo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joaotipo&layout=compact&langs_count=7&theme=dark"/>
+  <a href="https://github.com/JoaoPedrogo">
+  <img height="145em" src="https://github-readme-stats.vercel.app/api?username=JoaoPedrogo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPedrogo&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
 <div align="center">
