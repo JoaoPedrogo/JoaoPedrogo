@@ -2,8 +2,8 @@
 
 <div align="center">
   <a href="https://github.com/Joaotipo">
-  <img height="100em" src="https://github-readme-stats.vercel.app/api?username=Joaotipo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joaotipo&layout=compact&langs_count=7&theme=dark"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=Joaotipo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joaotipo&layout=compact&langs_count=7&theme=dark"/>
       <img align="right" alt="Jp-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/avatars/836086026099097650/cc2ecbc2525a5dc92911de12e48f45db.png?size=2048">
 </div>
   
