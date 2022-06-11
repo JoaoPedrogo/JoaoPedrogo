@@ -1,4 +1,4 @@
-<h1 align="left">Hi <img src="./hi.gif" height="30"width="30px"> , I'm João Pedro</h1>
+<img src="./hi.gif" height="30"width="30px"><h1 align="left">Hi, I'm João Pedro</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=JoaoPedrogo&color=blueviolet" alt="Profile views" /> </p>
 
 
