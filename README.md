@@ -2,7 +2,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=JoaoPedrogo&color=blueviolet" alt="Profile views" /> </p>
 
 
-<div align="left">
+<div align="center">
   <a href="https://github.com/JoaoPedrogo">
   <img height="145em" src="https://github-readme-stats.vercel.app/api?username=JoaoPedrogo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPedrogo&layout=compact&langs_count=7&theme=dark"/>
