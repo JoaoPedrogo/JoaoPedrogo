@@ -1,4 +1,4 @@
-<h1 align="left">Hi <img src="./hi.gif" height="30"width="30px"> , I'm João Pedro</h1>
+<h1 align="left">Oi <img src="./hi.gif" height="30" width="30px">, Eu sou João Pedro</h1>
 
 <div align="center">
   <a href="https://github.com/JoaoPedrogo">
